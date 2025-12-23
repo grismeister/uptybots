@@ -39,6 +39,9 @@ Coming soon.
 ## 🔗 Links
 
 - 🌐 Website: https://uptybots.com
+- ❓ FAQ: https://uptybots.com/faq
+- 📚 Tutorials: https://uptybots.com/tutorials
+- 🎬 Demos: https://uptybots.com/demos
 - 📄 Blog: https://uptybots.com/blog
 - 📬 Contact: https://uptybots.com/contact
 
