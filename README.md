@@ -10,9 +10,11 @@ website availability, API uptime, domain expiration, and SSL certificate health.
 ## 🔍 What UptyBots Monitors
 
 - ✅ Website uptime (HTTP / HTTPS)
-- ✅ API endpoints
+- ✅ API endpoints (Basic / Synthetic)
 - ✅ Domain expiration
 - ✅ SSL certificate expiration
+- ✅ Ping checks (ICMP / TCP)
+- ✅ Port availability monitoring
 - ✅ Downtime alerts & notifications
 
 ---
